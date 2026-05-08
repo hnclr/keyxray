@@ -4,6 +4,8 @@
 
 Designed for security researchers, forensic analysts, and CTF players, KeyXray bridges the gap between "broken" key fragments and a valid, secure SSH identity.
 
+<img width="2846" height="940" alt="keyxray-gh-banner" src="https://github.com/user-attachments/assets/6a23fbeb-db6c-42ce-9c31-e9132bc95beb" />
+
 ---
 
 ## 🚀 Why KeyXray?
